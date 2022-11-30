@@ -22,8 +22,8 @@ Visual components and Python
 
 ## Program
 ```
-Developed by:212221230120
-Name:Vidyaneela.M
+Developed by:212221230031
+Name:Gunaseelan G
 ```
 ```
 
@@ -69,7 +69,8 @@ print("----------------------------------------------------------------------")
 
 
 ## Output
-![sw](https://user-images.githubusercontent.com/94168395/204255512-5b635320-3a84-4bf9-8cff-3275aee4fe3a.png)
+![pqm1](https://user-images.githubusercontent.com/93427255/204800189-95c50089-6d39-4d5f-8060-2da373f7aaf4.png)
+
 
 # Result
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
